@@ -1,3 +1,7 @@
+<mark>
+Fork for personal use. As it needs to be modified to fit the work, please go to the Official.
+</mark>
+
 # Nuxt Auth Sanctum
 
 [![npm version][npm-version-src]][npm-version-href]
