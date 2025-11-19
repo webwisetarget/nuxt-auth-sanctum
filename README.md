@@ -1,5 +1,5 @@
 <mark>
-Fork for personal use. As it needs to be modified to fit the work, please go to the Official.
+Fork for personal use. As it needs to be modified to fit the work, please go to the Official. https://sanctum.manchenkoff.me/
 </mark>
 
 # Nuxt Auth Sanctum
