@@ -1,0 +1,12 @@
+{
+  "name": "nuxt-auth-sanctum",
+  "configKey": "sanctum",
+  "compatibility": {
+    "nuxt": ">=3.12.0"
+  },
+  "version": "0.6.7",
+  "builder": {
+    "@nuxt/module-builder": "1.0.1",
+    "unbuild": "unknown"
+  }
+}
